@@ -81,9 +81,9 @@ export default function Header() {
             </button>
 
             {/* Logo */}
-            <Link href="/" className="flex items-center gap-2">
-              <span className="font-heading text-2xl font-semibold tracking-tight">
-                Store
+            <Link href="/" className="flex items-center gap-2" aria-label="Sorai Matcha — home">
+              <span className="font-heading text-2xl font-semibold tracking-[0.04em] lowercase">
+                sorai<span className="text-[hsl(var(--matcha-leaf))]">.</span>
               </span>
             </Link>
 

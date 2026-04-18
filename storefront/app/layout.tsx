@@ -30,10 +30,10 @@ const body = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Store — Modern Commerce',
-    template: '%s | Store',
+    default: 'Sorai — Ceremonial Grade Matcha from Uji, Kyoto',
+    template: '%s | Sorai Matcha',
   },
-  description: 'Discover curated products crafted with care. A modern ecommerce experience.',
+  description: 'Stone-ground, first-flush ceremonial matcha from a fourth-generation family farm in Uji, Japan. Small-batch. Shade-grown. Shipped within 24 hours.',
 }
 
 export default function RootLayout({
